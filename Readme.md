@@ -9,3 +9,5 @@ para a variável permissividade dielétrica na frequência de 915 MHz foi de 0,8
 - Agora em 2020 com uma rede neural de 1 camada oculta, com 6 neurônios, 
 com função de ativação softmax nesta camada, o coeficiente de determinação da variável 
 permissividade dielétrica na frequência de 915 MHz chegou até o valor de 0,99.
+
+![image](https://user-images.githubusercontent.com/57735093/127051579-ade4612d-41cb-4fab-bd78-272b2a0e0332.png)
